@@ -28,3 +28,8 @@ Installation des paquets suivants :
     * Création d'un groupe ssh_users avec GID 1001 si ce GID n'est pas déjà utilisé.
 * Configuration du pare-feu UFW pour autoriser uniquement le trafic SSH, HTTP et HTTPS.
 * Configuration des mises à jour automatiques pour les paquets de sécurité.
+
+## Auteurs
+
+* Loïc LECOMTE
+* Lucas BELMONTE
